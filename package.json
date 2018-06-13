@@ -1,0 +1,24 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "thi is a test directory to learn node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shiv7/Full_Stack_developer.git"
+  },
+  "author": "shivendra pratap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shiv7/Full_Stack_developer/issues"
+  },
+  "homepage": "https://github.com/Shiv7/Full_Stack_developer#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
